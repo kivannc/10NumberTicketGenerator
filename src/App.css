@@ -1,5 +1,17 @@
+.button-logo {
+  border: none;
+  margin: 1px;
+  color: white;
+  width: 34px;
+  height: 34px;
+}
+
+button:focus {outline:0;}
+
 .App {
   text-align: center;
+  margin-top: auto;
+  padding-top: 20px;
 }
 
 .App-logo {
